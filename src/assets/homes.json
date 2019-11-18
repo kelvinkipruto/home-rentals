@@ -1,0 +1,72 @@
+[
+    {
+        "image_url":"https://pmcvariety.files.wordpress.com/2018/07/bradybunchhouse_sc11.jpg?w=1000&h=563&crop=1",
+        "type": "Apartment",
+        "location": "Nairobi",
+        "title": "One bedroom house"
+
+    },
+    {
+        "image_url":"https://www.incimages.com/uploaded_files/image/970x450/getty_856794670_385651.jpg",
+        "type": "Apartment",
+        "location": "Rongai",
+        "title": "two bedroom house"
+
+    },
+    {
+        "image_url":"https://si.wsj.net/public/resources/images/B3-DM067_RIGHTS_IM_20190319162958.jpg",
+        "type": "Apartment",
+        "location": "Ruiru",
+        "title": "Beddsitter"
+
+    },
+    {
+        "image_url":"https://indaily.com.au/wp-content/uploads/2019/04/Screen-Shot-2019-04-12-at-8.04.06-am-850x455.png",
+        "type": "Apartment",
+        "location": "Nairobi",
+        "title": "Three bedroom house"
+
+    },
+    {
+        "image_url":"https://nbook.in/wp-content/uploads/2017/05/medium-house-for-buy-house-for-sell-house-for-rent-real-estate-house-for-sale-in-puthencruz.jpg",
+        "type": "Apartment",
+        "location": "Thika",
+        "title": "Four bedroom house"
+
+    },
+    {
+        "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxgVhegqgQC3swTHywObJpZcqVUdRo3QgyZ1MbhR1WPvX6JbZAxw&s",
+        "type": "Apartment",
+        "location": "Mombasa",
+        "title": "Duplex bedroom house"
+
+    },
+    {
+        "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY_BML5Y53_ggEt1RO3StOZe6GjEUGS7aU2mzxk07CNTjNabqi&s",
+        "type": "Apartment",
+        "location": "Eldoret",
+        "title": "Five bedroom house"
+
+    },
+    {
+        "image_url":"https://images.homify.com/c_fill,f_auto,h_500,q_auto,w_1280/v1481191119/p/photo/image/1730299/_98R4313.jpg",
+        "type": "Apartment",
+        "location": "Nakuru",
+        "title": "Bedsitter"
+
+    },
+    {
+        "image_url":"https://i.ytimg.com/vi/Kshf2DJxh_s/maxresdefault.jpg",
+        "type": "Apartment",
+        "location": "Ngong",
+        "title": "One bedroom house"
+
+    },
+    {
+        "image_url":"https://engineeringdiscoveries.com/wp-content/uploads/2018/12/house-plans-inside-and-outside-beautiful-top-10-most-beautiful-houses-2017-of-house-plans-inside-and-outside.jpg_.jpg",
+        "type": "Apartment",
+        "location": "Juja",
+        "title": "Two bedroom house"
+
+    }
+]

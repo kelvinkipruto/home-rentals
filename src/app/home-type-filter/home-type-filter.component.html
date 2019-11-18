@@ -1,0 +1,38 @@
+<form [formGroup]="form" (submit)="submit(form.value)">
+    <div uk-grid class="uk-child-width-1-1">
+    <label>
+        <input class="uk-checkbox" type="checkbox"
+        [formControlName]="'Beddsitter'">
+        Bedsitter
+    </label>
+    <label>
+        <input class="uk-checkbox" type="checkbox"
+            [formControlName]="'OneBedroom'">
+        One Bedroom
+    </label>
+    <label>
+        <input class="uk-checkbox" type="checkbox"
+        [formControlName]="'TwoBedroom'">
+        Two Bedroom
+    </label>
+    <label>
+        <input class="uk-checkbox" type="checkbox"
+        [formControlName]="'ThreeBedroom'">
+        Three Bedroom
+    </label>
+    <label>
+        <input class="uk-checkbox" type="checkbox"
+        [formControlName]="'FourBedroom'">
+        Four Bedroom
+    </label>
+    <label>
+        <input class="uk-checkbox" type="checkbox"
+        [formControlName]="'FiveBedroom'">
+        Five Bedroom
+    </label>
+
+</div>
+<button class="uk-button uk-button-link uk-button-large uk-align-right uk-margin-small">
+    Apply
+</button>
+</form>
